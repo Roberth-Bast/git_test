@@ -1,0 +1,4 @@
+Testing the class of git hub, I was learning how to identify a file untracked with git status, then
+was learning how to add files to the "main" branch with the command git add -name of the file- or with
+git add . for all the files not staged for commit, and finally I added it all the files and commit with 
+the command git commit -m "The message of your commit".
